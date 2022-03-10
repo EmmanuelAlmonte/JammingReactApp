@@ -10,8 +10,5 @@ class SearchBar extends React.Component {
     )
   }
 }
-<div class="SearchBar">
-  <input type="text" placeholder="Enter A Song, Album, or Artist" />
-  <button class="SearchButton">SEARCH</button>
-</div>
+
 export default SearchBar;
